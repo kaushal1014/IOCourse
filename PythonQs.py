@@ -23,7 +23,6 @@ H=int(input("Enter the height of the cuboid:"))
 volume=(L*B*H)
 print("Volune:",volume)
 
-
 #4
 print("\n")
 print("Q4")
@@ -39,23 +38,18 @@ print("Q5")
 no1=int(input("Enter a number:"))
 no2=int(input("Enter a number:"))
 
+small=0
 if no1>no2:
-    for i in range(1,no2+1):
-        if no1%i==0 and no2%i==0:
-            hcf=i
-        else:
-            break
-
+    small=no2
+elif no1<no2:
+    small=no1
 elif no1==no2:
     hcf=no1
-else:
-    for i in range(1,no1+1):
-            if no1%i==0 and no2%i==0:
-                hcf=i
-            else:
-                break
-print(hcf)
+for i in range(1,small+1):
+    if no1%i==0 and no2%i==0:
+        hcf=i
 
+print("HCF is:",hcf)
 
 #6
 print("\n")
@@ -67,6 +61,7 @@ def factorial():
         sum*=i
     print(sum)
 factorial()
+
 #7
 print("\n")
 print("Q7")
@@ -78,7 +73,6 @@ for i in list1:
   else:
     d[i]=1
 print(d)
-
 
 #8
 print("\n")
