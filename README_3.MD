@@ -7,8 +7,8 @@ The 2 different hypotheses:
 - The alternative hypothesis.
 The Null Hypothesis is the assumption that the event will not occur.
 The Alternate Hypothesis is the logical opposite of the null hypothesis.
-* Thus, they are mutually exclusive, and only one can be true.*
-* However, one of the two hypotheses will always be true. *
+*** Thus, they are mutually exclusive, and only one can be true.***
+*** However, one of the two hypotheses will always be true. ***
 ## Autoregressive Integrated Moving Average (ARIMA)
 An ARIMA model can be understood by outlining each of its components as follows:
 - Autoregression (AR): refers to a model that shows a changing variable that regresses on its own lagged, or prior, values.
