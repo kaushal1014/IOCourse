@@ -1,5 +1,8 @@
 # Model testing Importance
 
+## Performance Matirx 
+- MAE : takes the average of absolute errors for a group of predictions and observations as a measurement of the magnitude of errors for the entire group.
+- Mape : is the percentage equivalent of mean absolute error (MAE). Mean absolute percentage error measures the average magnitude of error produced by a model, or how far off predictions are on average. 
 ## What Is Hypothesis Testing?
 
 Hypothesis testing is an act in statistics whereby an analyst tests an assumption regarding a population parameter.In hypothesis testing, an analyst tests a statistical sample, with the goal of providing evidence on the plausibility of the null hypothesis.
