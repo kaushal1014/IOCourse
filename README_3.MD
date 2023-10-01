@@ -5,10 +5,9 @@
 Hypothesis testing is an act in statistics whereby an analyst tests an assumption regarding a population parameter.In hypothesis testing, an analyst tests a statistical sample, with the goal of providing evidence on the plausibility of the null hypothesis.
 
 The 2 different hypotheses: 
-- The null hypothesis 
-- The alternative hypothesis.
-The Null Hypothesis is the assumption that the event will not occur. \
-The Alternate Hypothesis is the logical opposite of the null hypothesis.\
+- The null hypothesis : the assumption that the event will not occur
+- The alternative hypothesis : the logical opposite of the null hypothesis
+
 Thus, they are mutually exclusive, and only one can be true. \
 However, one of the two hypotheses will always be true.
 
