@@ -8,8 +8,7 @@ The 2 different hypotheses:
 - The null hypothesis : the assumption that the event will not occur
 - The alternative hypothesis : the logical opposite of the null hypothesis
 
-Thus, they are mutually exclusive, and only one can be true. \
-However, one of the two hypotheses will always be true.
+Thus, they are mutually exclusive,however, one of the two hypotheses will always be true.
 
 ## Autoregressive Integrated Moving Average (ARIMA)
 
